@@ -26,7 +26,8 @@
 
 		<h3>Objeto</h3>
 		<p>{nick:'Zico', message:'Olá'}</p>
-    
+
+		<footer>Info Cimol</p>
 	</body>
 
 </html>
